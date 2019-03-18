@@ -1,0 +1,14 @@
+{
+  "name": "js-md5",
+  "homepage": "https://github.com/blueimp/JavaScript-MD5",
+  "version": "2.8.0",
+  "_release": "2.8.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.8.0",
+    "commit": "508e1f5ee1666eed03a827cbdc609bb29af2767a"
+  },
+  "_source": "https://github.com/blueimp/JavaScript-MD5.git",
+  "_target": "^2.1.0",
+  "_originalSource": "js-md5"
+}

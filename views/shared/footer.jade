@@ -1,0 +1,16 @@
+.row.footer
+    .col-md-12
+        footer
+            p
+                | #{new Date().getFullYear()} © All Rights Reserved#{settings.RecordNo ? ' | ' + settings.RecordNo : ''}
+                span.hidden-xs
+                    =' | '
+                    a(href='/admin', target='_blank') #{__("footer.admin_system")}
+            p
+                | 友情链接
+                span.hidden-xs
+                    =' | '
+                    a(href='http://www.54admin.net', target='_blank') 站长分类目录
+                    =' | '
+                    a(href='http://www.wajue.top', target='_blank') 网络攻击与防御
+
